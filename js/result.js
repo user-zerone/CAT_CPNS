@@ -70,9 +70,9 @@ export function finishSimulation() {
             
             let promptText = "";
             if (q.info.kategori === 'TKP') {
-                promptText = `Tolong analisa soal ini dan berikan jawaban serta pembahasannya secara detail, dan berikan poin 1 sampai 5 per opsi: ${q.soal || ''} ${opsiString}`;
+                promptText = `Tolong analisa soal ini dan berikan jawaban serta pembahasannya secara detail, jelaskan juga per opsi A sampai E agar membuka pemahaman baru, dan berikan poin 1 sampai 5 per opsi: ${q.soal || ''} ${opsiString}`;
             } else {
-                promptText = `Tolong analisa soal ini dan berikan jawaban serta pembahasannya secara detail: ${q.soal || ''} ${opsiString}`;
+                promptText = `Tolong analisa soal ini dan berikan jawaban serta pembahasannya secara detail, jelaskan juga per opsi A sampai E agar membuka pemahaman baru : ${q.soal || ''} ${opsiString}`;
             }
             const searchQuery = encodeURIComponent(promptText);
 
