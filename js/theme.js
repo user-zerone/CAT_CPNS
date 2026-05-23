@@ -16,5 +16,5 @@ export function toggleDarkMode() {
 
 function updateThemeBtn(isDark) {
     const btn = document.getElementById('theme-toggle-btn');
-    if (btn) btn.innerHTML = isDark ? '☀️ Light' : ' Dark';
+    if (btn) btn.innerHTML = isDark ? '☀️ Light' : '🌙 Dark';
 }

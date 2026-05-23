@@ -175,27 +175,9 @@ body { background-color: #f0f2f5; color: #333; }
 .wrong-content .correct-ans { background: #eafaf1; border-left: 4px solid #27ae60; color: #1e8449; margin-bottom: 0; }
 
 /* ==========================================
-   TOMBOL DARK MODE (selalu tampil di atas)
-   ========================================== */
-.theme-toggle-fixed {
-    position: fixed; top: 12px; right: 15px; z-index: 10000;
-    background: rgba(44, 62, 80, 0.85); border: 1px solid rgba(255,255,255,0.25);
-    color: #fff; padding: 6px 13px; border-radius: 20px;
-    cursor: pointer; font-size: 0.78rem; font-weight: bold;
-    display: flex; align-items: center; gap: 5px;
-    white-space: nowrap; backdrop-filter: blur(4px);
-    transition: background 0.2s, border-color 0.2s;
-}
-.theme-toggle-fixed:hover { background: rgba(44, 62, 80, 1); }
-
-/* ==========================================
    DARK MODE — semua override di bawah body.dark
    ========================================== */
 body.dark { background-color: #1a1f26; color: #d1d5db; }
-
-/* Tombol toggle saat dark */
-body.dark .theme-toggle-fixed { background: rgba(17, 24, 39, 0.92); border-color: #374151; }
-body.dark .theme-toggle-fixed:hover { background: #1f2937; }
 
 /* Login Screen */
 body.dark #login-screen { background: rgba(10, 14, 20, 0.97); }
@@ -280,3 +262,71 @@ body.dark .wrong-content .q-img-review { border: 1px solid #374151; }
 body.dark .wrong-content .q-text { color: #e5e7eb; }
 body.dark .wrong-content .user-ans { background: #2d1f0e; border-left: 4px solid #d97706; color: #fb923c; }
 body.dark .wrong-content .correct-ans { background: #064e3b; border-left: 4px solid #059669; color: #6ee7b7; }
+
+/* ─── Kustomisasi Kontainer PIN & Area Sentuh Ikon Mata ─── */
+.password-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.password-container input {
+    width: 100%;
+    padding-right: 45px; /* Memberikan ruang di kanan agar teks PIN tidak tertutup area sentuh */
+    margin-bottom: 0 !important; /* Reset margin bawaan agar sinkron dengan kontainer */
+}
+
+.toggle-password {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 45px; /* Lebar area sentuh yang responsif untuk jari (Standar UX Mobile) */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    user-select: none;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+    z-index: 2; /* Memastikan ikon mata berada di layer atas sehingga bisa disentuh */
+}
+
+.toggle-password:hover {
+    opacity: 1;
+}
+
+
+/* ─── Header App ─── */
+.header-app {
+    background: #2c3e50; color: #fff;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 15px;
+}
+.user-profile { font-weight: 500; font-size: 0.95rem; }
+.header-app #theme-toggle-btn {
+    background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3);
+    color: #fff; padding: 6px 13px; border-radius: 20px;
+    cursor: pointer; font-size: 0.78rem; font-weight: bold;
+    white-space: nowrap; transition: background 0.2s;
+}
+.header-app #theme-toggle-btn:hover { background: rgba(255,255,255,0.28); }
+
+/* ─── Sidebar Nav (selalu tampil) ─── */
+.sidebar-nav {
+    background: white; border-bottom: 2px solid #bdc3c7;
+    padding: 12px 15px;
+}
+
+/* ─── Error Message ─── */
+.error-msg {
+    background: #fadbd8; color: #c0392b; border: 1px solid #c0392b;
+    border-radius: 6px; padding: 10px 14px; margin-bottom: 15px;
+    font-size: 0.9rem; text-align: left;
+}
+
+/* Dark mode tambahan */
+body.dark .header-app { background: #111827; }
+body.dark .sidebar-nav { background: #1f2937; border-bottom: 2px solid #374151; }
+body.dark .error-msg { background: #7f1d1d; color: #fca5a5; border-color: #991b1b; }

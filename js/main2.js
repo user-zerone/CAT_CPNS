@@ -1,15 +1,27 @@
-//hh
 import { state, CONSTANTS } from './state.js';
 import { toggleDarkMode, initTheme } from './theme.js';
 import { enableAntiCheat } from './utils.js';
 import { renderGrid, renderQuestion } from './ui.js';
 import { endTest, autoSubmit } from './result.js';
+import { togglePinVisibility } from './pin.js';
+import { initPackageDropdown } from './package.js';
 
 initTheme();
+initPackageDropdown(); // FIX: dropdown paket sebelumnya tidak pernah diisi
 
-window.toggleDarkMode = toggleDarkMode;
-window.startSimulation = startSimulation;
-window.endTest = endTest;
+// Ekspos fungsi ke global agar bisa dipanggil dari atribut HTML onclick
+window.toggleDarkMode      = toggleDarkMode;
+window.startSimulation     = startSimulation;
+window.endTest             = endTest;
+window.togglePinVisibility = togglePinVisibility; // FIX: sebelumnya tidak diekspos, menyebabkan error
+window.toggleNavGrid       = toggleNavGrid;       // FIX: sebelumnya tidak didefinisikan sama sekali
+
+// ─── Sidebar nav toggle ───────────────────────────────────────────────────────
+function toggleNavGrid() {
+    const sidebar = document.getElementById('sidebar-nav');
+    if (!sidebar) return;
+    sidebar.classList.toggle('open');
+}
 
 // ─── Load CryptoJS dari CDN (kompatibel HTTP + semua browser) ─────────────────
 function loadCryptoJS() {
@@ -36,20 +48,13 @@ function cryptoJsDecrypt(ciphertextBase64, password) {
     }
 }
 
-// ─── Dekripsi 2 layer ─────────────────────────────────────────────────────────
-function decryptDoubleLayer(encryptedText, password) {
-    const layer1 = cryptoJsDecrypt(encryptedText, password);
-    if (!layer1) return null;
-    const layer2 = cryptoJsDecrypt(layer1, password);
-    return layer2;
-}
 // ─────────────────────────────────────────────────────────────────────────────
 
 async function startSimulation() {
     const username = document.getElementById('input-username').value.trim();
     const pin      = document.getElementById('input-pin').value.trim();
     const paketVal = document.getElementById('package-selection').value;
-    const btnMulai = document.getElementById('btn-mulai');
+    const btnLogin = document.getElementById('btn-login'); // FIX: id yang benar adalah 'btn-login', bukan 'btn-mulai'
 
     hideError();
 
@@ -57,8 +62,8 @@ async function startSimulation() {
     if (!pin)      { showError('Silakan masukkan PIN!'); return; }
     if (!paketVal) { showError('Silakan pilih paket soal!'); return; }
 
-    btnMulai.disabled    = true;
-    btnMulai.textContent = 'Memverifikasi...';
+    btnLogin.disabled    = true;
+    btnLogin.textContent = 'Memverifikasi...';
 
     try {
         // Pastikan CryptoJS sudah ter-load
@@ -105,7 +110,7 @@ function hideError() {
     document.getElementById('login-error').style.display = 'none';
 }
 function resetBtn() {
-    const btn = document.getElementById('btn-mulai');
+    const btn = document.getElementById('btn-login'); // FIX: id yang benar adalah 'btn-login'
     btn.disabled    = false;
     btn.textContent = 'Mulai Ujian';
 }

@@ -8,48 +8,36 @@
 </head>
 <body>
 
-    <button id="theme-toggle-btn" class="theme-toggle-fixed" onclick="toggleDarkMode()">🌙 Dark</button>
-
-    <!-- LOCK SCREEN -->
     <div id="login-screen">
         <div class="login-box">
             <h2>Simulasi CAT</h2>
             <p>Masukkan kredensial untuk memulai ujian</p>
 
             <input type="text" id="input-username" placeholder="Username..." autocomplete="off">
-            <input type="password" id="input-pin" placeholder="PIN..." autocomplete="off">
+            
+            <div class="password-container">
+                <input type="password" id="input-pin" placeholder="PIN..." autocomplete="off">
+                <span id="toggle-pin-visibility" class="toggle-password" onclick="togglePinVisibility()">👁️</span>
+            </div>
 
             <select id="package-selection">
                 <option value="" disabled selected>-- Pilih Paket Soal --</option>
-                <option value="1">Paket 1</option>
-                <option value="2">Paket 2</option>
-                <option value="3">Paket 3</option>
-                <option value="4">Paket 4</option>
-                <option value="5">Paket 5</option>
-                <option value="6">Paket 6</option>
-                <option value="7">Paket 7</option>
-                <option value="8">Paket 8</option>
-                <option value="9">Paket 9</option>
-                <option value="10">Paket 10</option>
             </select>
 
-            <button id="btn-mulai" onclick="startSimulation()">Mulai Ujian</button>
-            <p id="login-error" style="color:red; display:none; margin-top:8px;"></p>
+            <div id="login-error" class="error-msg" style="display: none;"></div>
+            <button id="btn-login" onclick="startSimulation()">Mulai Ujian</button>
         </div>
     </div>
 
     <div id="app-container" style="display: none;">
-        
-        <div class="header-name">
-            👤 <span id="display-name"></span>
+        <div class="header-app">
+            <div class="user-profile">
+                👤 <span id="display-name">-</span>
+            </div>
+            <button id="theme-toggle-btn" onclick="toggleDarkMode()">🌙 Dark</button>
         </div>
 
-        <div class="top-nav-panel">
-            <div class="legend">
-                <div><span class="box-legend answered"></span> Dijawab</div>
-                <div><span class="box-legend marked"></span> Ragu</div>
-                <div><span class="box-legend unanswered"></span> Belum</div>
-            </div>
+        <div class="sidebar-nav" id="sidebar-nav">
             <div class="grid-container" id="number-grid"></div>
         </div>
 
@@ -67,13 +55,9 @@
 
         <div class="main-content">
             <div class="question-panel">
-                
                 <div class="question-meta" id="question-meta" style="display: none;"></div>
-
                 <img id="question-image" class="question-img" src="" alt="Gambar Soal">
-
                 <div class="question-body" id="question-text"></div>
-                
                 <div class="options-container" id="options-container"></div>
 
                 <div class="controls">
