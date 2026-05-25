@@ -1,0 +1,1037 @@
+[
+  {
+    "gambar": "",
+    "soal": "Seorang warga datang ke kantor Anda untuk mengurus dokumen kependudukan. Ia tidak membawa semua persyaratan yang dibutuhkan. Apa yang Anda lakukan?",
+    "opsi": {
+      "A": "Menolak permohonan karena persyaratan tidak lengkap",
+      "B": "Menyuruh warga pulang dan datang lagi saat persyaratan lengkap tanpa penjelasan lebih lanjut",
+      "C": "Menjelaskan persyaratan yang kurang secara ramah, memberikan daftar tertulis, dan menyarankan waktu terbaik untuk kembali",
+      "D": "Meminta warga menunggu sampai semua loket tutup",
+      "E": "Memproses dokumen walau persyaratan tidak lengkap demi kebaikan warga"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Penanganan Permohonan Tidak Lengkap",
+      "skor_opsi": {
+        "A": 2,
+        "B": 1,
+        "C": 5,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Antrian pelayanan publik di kantor Anda sangat panjang dan banyak warga mengeluh. Sebagai petugas, apa langkah pertama yang Anda ambil?",
+    "opsi": {
+      "A": "Meminta warga bersabar karena ini sudah prosedur biasa",
+      "B": "Mengusulkan sistem antrian digital kepada atasan untuk efisiensi layanan",
+      "C": "Menambah jam lembur sendiri tanpa koordinasi",
+      "D": "Mengabaikan keluhan karena sudah ada nomor antrian",
+      "E": "Menyalahkan staf lain atas lambatnya pelayanan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Inovasi Pelayanan Publik",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Seorang warga lansia kesulitan mengisi formulir digital dalam sistem layanan online pemerintah. Sikap Anda sebagai petugas adalah ...",
+    "opsi": {
+      "A": "Menyarankan warga mencari bantuan dari anaknya di rumah",
+      "B": "Membantu mengisi formulir sambil menjelaskan cara penggunaan sistem kepada warga",
+      "C": "Mengarahkan ke loket khusus lansia tanpa bantuan lebih lanjut",
+      "D": "Menyerahkan tugas membantu kepada petugas lain",
+      "E": "Menolak membantu karena bukan tugas pokok Anda"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Pelayanan Inklusif untuk Lansia",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 4,
+        "E": 1
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menemukan bahwa prosedur layanan publik di unit Anda sudah ketinggalan zaman dan menyulitkan masyarakat. Apa yang Anda lakukan?",
+    "opsi": {
+      "A": "Diam karena tidak ingin membuat masalah dengan atasan",
+      "B": "Mendokumentasikan masalah, mengusulkan perbaikan prosedur kepada atasan disertai data dan solusi konkret",
+      "C": "Menjalankan prosedur lama karena sudah menjadi aturan",
+      "D": "Membahas dengan rekan kerja tetapi tidak melaporkan ke atasan",
+      "E": "Mengubah prosedur sendiri tanpa persetujuan atasan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Inovasi Prosedur Layanan",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Seorang pejabat daerah meminta Anda mempercepat proses izin usaha kerabatnya melalui jalur khusus. Respons Anda adalah ...",
+    "opsi": {
+      "A": "Memenuhi permintaan karena pejabat tersebut atasan Anda",
+      "B": "Menolak dengan sopan, menjelaskan bahwa proses izin harus mengikuti prosedur yang berlaku tanpa pengecualian",
+      "C": "Menunda proses sambil mencari cara untuk menolak tanpa konflik",
+      "D": "Memproses sambil mendokumentasikan sebagai catatan pribadi",
+      "E": "Melapor ke media massa agar menjadi perhatian publik"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Netralitas dan Antikorupsi dalam Pelayanan",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menemukan bahwa sistem pengaduan online layanan publik di instansi Anda tidak berfungsi dan banyak keluhan terabaikan. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Membiarkan karena bukan tanggung jawab langsung Anda",
+      "B": "Melaporkan kepada bagian IT dan atasan serta memberikan solusi sementara berupa pengaduan manual",
+      "C": "Menunggu instruksi dari atasan sebelum bertindak",
+      "D": "Memberi tahu masyarakat agar menggunakan media sosial saja",
+      "E": "Hanya melaporkan ke bagian IT tanpa tindak lanjut"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Pengelolaan Pengaduan Publik",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Rekan kerja Anda sering datang terlambat dan meninggalkan tugas kepada Anda. Anda akan ...",
+    "opsi": {
+      "A": "Melaporkan langsung ke atasan agar rekan tersebut dihukum",
+      "B": "Diam dan mengerjakan semua tugasnya agar tidak ada masalah",
+      "C": "Berbicara secara pribadi dengan rekan tersebut untuk memahami masalahnya dan mendorongnya memperbaiki perilaku",
+      "D": "Menolak mengerjakan tugas rekan tersebut secara terang-terangan",
+      "E": "Menyebarkan informasi tentang perilaku rekan kepada seluruh kantor"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Penanganan Konflik Rekan Kerja",
+      "skor_opsi": {
+        "A": 2,
+        "B": 3,
+        "C": 5,
+        "D": 4,
+        "E": 1
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mendapat tugas mendadak dari atasan sementara Anda sedang menyelesaikan laporan penting bertenggat hari ini. Yang Anda lakukan adalah ...",
+    "opsi": {
+      "A": "Menolak tugas mendadak karena ada prioritas lain",
+      "B": "Menerima tugas mendadak dan mengabaikan laporan yang hampir selesai",
+      "C": "Berkomunikasi dengan atasan mengenai kondisi pekerjaan, meminta prioritas tugas, dan menyusun rencana penyelesaian keduanya",
+      "D": "Mengerjakan keduanya sekaligus meski hasil tidak optimal",
+      "E": "Menyerahkan laporan kepada rekan agar Anda fokus pada tugas mendadak"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Manajemen Prioritas Pekerjaan",
+      "skor_opsi": {
+        "A": 2,
+        "B": 1,
+        "C": 5,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Atasan Anda meminta Anda membuat laporan kinerja dengan data yang dimanipulasi agar terlihat baik. Anda akan ...",
+    "opsi": {
+      "A": "Menuruti perintah karena atasan selalu benar",
+      "B": "Menolak dengan tegas dan menjelaskan risiko hukum serta etika dari manipulasi data",
+      "C": "Membuat dua versi laporan: satu asli dan satu manipulasi",
+      "D": "Diam dan melapor ke rekan kerja saja",
+      "E": "Melakukan manipulasi minimal agar tidak terlalu mencolok"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Integritas Data dan Pelaporan",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mengetahui bahwa rekan kerja Anda menerima gratifikasi dari pihak ketiga dalam pengadaan barang. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Diam karena tidak mau terlibat urusan orang lain",
+      "B": "Ikut menerima bagian agar tidak dianggap melaporkan",
+      "C": "Melaporkan kepada unit pengawasan internal atau KPK melalui mekanisme whistleblower",
+      "D": "Menegur rekan secara pribadi saja tanpa laporan resmi",
+      "E": "Menunggu ada bukti lebih kuat sebelum melapor"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Pelaporan Gratifikasi",
+      "skor_opsi": {
+        "A": 2,
+        "B": 1,
+        "C": 5,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Transformasi digital di instansi Anda mengharuskan semua pegawai menggunakan sistem baru yang belum Anda kuasai. Sikap Anda adalah ...",
+    "opsi": {
+      "A": "Menolak menggunakan sistem baru karena merasa nyaman dengan cara lama",
+      "B": "Aktif mengikuti pelatihan, mempelajari sistem mandiri, dan siap membantu rekan yang kesulitan",
+      "C": "Menggunakan sistem baru hanya jika dipaksa atasan",
+      "D": "Meminta pengecualian karena sudah senior",
+      "E": "Mengandalkan staf junior untuk mengoperasikan sistem"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Adaptasi Teknologi Digital",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mendapat tawaran promosi jabatan, namun syaratnya adalah berpindah ke daerah terpencil selama 3 tahun. Sikap Anda adalah ...",
+    "opsi": {
+      "A": "Menolak karena tidak mau jauh dari keluarga",
+      "B": "Menerima dengan senang hati sebagai kesempatan pengabdian dan pengembangan karier",
+      "C": "Meminta pertimbangan keluarga terlebih dahulu sebelum memutuskan",
+      "D": "Meminta penempatan di kota lain yang lebih dekat",
+      "E": "Menerima tapi berencana mengajukan mutasi setelah 6 bulan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Komitmen Pengabdian dan Mobilitas",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 4,
+        "D": 1,
+        "E": 3
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mendapatkan penilaian kinerja buruk dari atasan meski sudah bekerja keras. Reaksi Anda adalah ...",
+    "opsi": {
+      "A": "Marah dan protes kepada atasan secara emosional",
+      "B": "Menerima penilaian, meminta umpan balik konstruktif, dan menyusun rencana perbaikan kinerja",
+      "C": "Mengabaikan penilaian dan terus bekerja seperti biasa",
+      "D": "Mencari dukungan rekan untuk mengadu ke HR",
+      "E": "Menyerah dan menurunkan motivasi kerja"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Respons terhadap Evaluasi Kinerja",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda baru dipromosikan menjadi kepala unit. Salah satu staf senior Anda menunjukkan sikap tidak hormat dan meremehkan keputusan Anda. Anda akan ...",
+    "opsi": {
+      "A": "Langsung memberikan sanksi tegas",
+      "B": "Mengajak staf tersebut berdiskusi secara pribadi untuk memahami perspektifnya dan menegaskan peran kepemimpinan secara profesional",
+      "C": "Mengabaikan sikap tersebut agar tidak terjadi konflik",
+      "D": "Meminta atasan untuk memindahkan staf tersebut",
+      "E": "Membalas dengan sikap serupa agar staf menyadari posisinya"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Kepemimpinan dan Otoritas",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 4,
+        "E": 1
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Atasan Anda membuat keputusan yang menurut Anda kurang tepat dalam program ketahanan pangan daerah. Anda akan ...",
+    "opsi": {
+      "A": "Diam dan menjalankan keputusan meski tidak setuju",
+      "B": "Menyampaikan pendapat dan data pendukung alternatif secara profesional kepada atasan, kemudian menghormati keputusan akhir",
+      "C": "Menolak melaksanakan keputusan tersebut",
+      "D": "Membocorkan keputusan atasan kepada pihak luar",
+      "E": "Mengajukan protes formal melalui serikat pegawai"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Hubungan dengan Atasan",
+      "skor_opsi": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda diminta menjadi mentor bagi pegawai baru yang belum berpengalaman. Pendekatan Anda adalah ...",
+    "opsi": {
+      "A": "Memberi tugas sulit langsung agar pegawai baru cepat belajar dari tekanan",
+      "B": "Menyusun program mentoring terstruktur, memberikan tugas bertahap, dan rutin memberikan umpan balik yang membangun",
+      "C": "Menyuruh pegawai baru belajar mandiri dari dokumen yang ada",
+      "D": "Melimpahkan peran mentor ke rekan lain yang lebih junior",
+      "E": "Hanya membimbing jika diminta saja"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Pengembangan SDM dan Mentoring",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Dalam rapat tim, ide Anda ditolak dan digantikan ide rekan yang lebih junior. Reaksi Anda adalah ...",
+    "opsi": {
+      "A": "Marah dan tidak mau berkontribusi lagi dalam rapat",
+      "B": "Menerima dengan lapang dada, mendukung ide yang dipilih, dan tetap aktif berkontribusi dalam implementasi",
+      "C": "Diam saja tetapi tidak mendukung ide tersebut",
+      "D": "Berbisik kepada rekan bahwa ide tersebut pasti gagal",
+      "E": "Meminta rapat diulang dengan agenda yang berbeda"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Kolaborasi Tim",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Kebijakan Zero Growth ASN membuat formasi di unit Anda sangat terbatas. Anda diminta memaksimalkan kinerja tim dengan jumlah personel yang ada. Langkah Anda adalah ...",
+    "opsi": {
+      "A": "Melapor ke atasan bahwa target tidak dapat dicapai dengan personel terbatas",
+      "B": "Melakukan pemetaan kompetensi staf, membagi tugas sesuai keahlian, dan mendorong otomasi proses kerja",
+      "C": "Meminta rekrutmen honorer sebagai jalan keluar",
+      "D": "Menurunkan target kinerja agar realistis",
+      "E": "Menambah jam kerja lembur seluruh staf tanpa tambahan kompensasi"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Efisiensi Birokrasi dan Zero Growth ASN",
+      "skor_opsi": {
+        "A": 3,
+        "B": 5,
+        "C": 2,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda diminta memimpin tim yang terdiri dari berbagai latar belakang etnis dan agama. Pendekatan Anda dalam membangun kohesi tim adalah ...",
+    "opsi": {
+      "A": "Memperlakukan semua anggota secara seragam tanpa memperhatikan perbedaan",
+      "B": "Mendorong dialog lintas budaya, merayakan keberagaman, dan membangun nilai-nilai tim yang inklusif",
+      "C": "Mengelompokkan anggota berdasarkan kesamaan latar belakang",
+      "D": "Fokus pada target kerja saja tanpa urusan hubungan antar anggota",
+      "E": "Menyerahkan dinamika tim kepada anggota untuk dikelola sendiri"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Kepemimpinan Inklusif",
+      "skor_opsi": {
+        "A": 3,
+        "B": 5,
+        "C": 1,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Di lingkungan tempat tinggal Anda, terjadi konflik antar warga akibat perbedaan pendapat tentang pembangunan masjid baru di dekat gereja. Sikap Anda sebagai warga dan ASN adalah ...",
+    "opsi": {
+      "A": "Memihak kelompok mayoritas agar tidak terjadi masalah",
+      "B": "Bersikap netral dan tidak terlibat sama sekali",
+      "C": "Memfasilitasi dialog antar tokoh masyarakat untuk mencapai kesepakatan berbasis toleransi dan saling menghormati",
+      "D": "Melaporkan konflik ke polisi agar segera diselesaikan secara hukum",
+      "E": "Menghindari lingkungan tersebut untuk menjaga keamanan diri"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Toleransi dan Kerukunan Antarumat Beragama",
+      "skor_opsi": {
+        "A": 2,
+        "B": 3,
+        "C": 5,
+        "D": 4,
+        "E": 1
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mengetahui ada konten hoaks bermuatan SARA yang viral di grup WhatsApp keluarga besar Anda. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Diam karena tidak mau terlibat konflik dengan keluarga",
+      "B": "Langsung menyebarkan counter-narasi yang juga provokatif",
+      "C": "Memberikan klarifikasi berbasis fakta dengan tenang dan mengajak anggota grup memverifikasi informasi sebelum menyebarkan",
+      "D": "Keluar dari grup agar tidak terlibat",
+      "E": "Melaporkan konten tersebut ke Kominfo tanpa memberi edukasi kepada keluarga"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Penanggulangan Hoaks dan SARA",
+      "skor_opsi": {
+        "A": 2,
+        "B": 1,
+        "C": 5,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Tetangga Anda berasal dari suku yang berbeda dan memiliki tradisi ritual adat yang menimbulkan suara dan aroma khas. Respons Anda adalah ...",
+    "opsi": {
+      "A": "Melaporkan ke RT agar kegiatan tersebut dihentikan",
+      "B": "Memahami bahwa ritual adat adalah hak budaya, mendekat dengan penuh rasa hormat dan ingin tahu",
+      "C": "Mengabaikan saja selama tidak mengganggu tidur Anda",
+      "D": "Mengunggah keluhan di media sosial",
+      "E": "Pindah rumah agar tidak terganggu"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Penghargaan Keragaman Budaya",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Pelemahan rupiah berdampak pada naiknya harga kebutuhan pokok di komunitas Anda. Sebagai ASN yang peduli sosial, langkah konkret yang Anda lakukan adalah ...",
+    "opsi": {
+      "A": "Membiarkan karena ini urusan pasar dan pemerintah pusat",
+      "B": "Berkoordinasi dengan pemerintah daerah untuk mengaktifkan pasar murah dan operasi pasar stabilisasi harga",
+      "C": "Mengkritik kebijakan pemerintah di media sosial",
+      "D": "Menyarankan masyarakat membeli impor untuk alternatif",
+      "E": "Menimbun kebutuhan pokok agar bisa dijual saat harga naik"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Respons Sosial terhadap Pelemahan Rupiah",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Di desa tempat Anda bertugas, terdapat tradisi pernikahan anak yang masih berlangsung. Sikap Anda sebagai pejabat pemerintah adalah ...",
+    "opsi": {
+      "A": "Menghormati tradisi karena merupakan budaya lokal",
+      "B": "Melakukan pendekatan budaya dan edukasi kepada tokoh adat dan orang tua tentang dampak pernikahan anak, sambil mendorong penerapan regulasi perlindungan anak",
+      "C": "Melaporkan langsung ke polisi agar segera diproses hukum",
+      "D": "Diam karena tidak ingin mencampuri urusan adat",
+      "E": "Membuat larangan tertulis di papan pengumuman desa"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Perlindungan Anak dan Tradisi Lokal",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Kantor Anda mulai menerapkan sistem absensi berbasis face recognition terintegrasi cloud. Sebagai pegawai, sikap Anda adalah ...",
+    "opsi": {
+      "A": "Menolak karena khawatir data biometrik disalahgunakan",
+      "B": "Mendukung penuh, mempelajari cara kerja sistem, dan memberikan masukan untuk peningkatan keamanan data",
+      "C": "Menggunakan sistem tapi tetap menitip absen rekan",
+      "D": "Menerima sistem tetapi tidak mau memberikan data biometrik",
+      "E": "Mendukung asal ada insentif tambahan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Penerapan Teknologi Biometrik di Pemerintahan",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menerima email dari alamat resmi pemerintah yang meminta Anda mengirimkan username dan password akun SIASN. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Mengirimkan data yang diminta karena email tersebut terlihat resmi",
+      "B": "Mengabaikan email tersebut",
+      "C": "Tidak mengirim data, melaporkan email tersebut ke tim IT keamanan sebagai potensi phishing, dan mengganti password segera",
+      "D": "Bertanya kepada rekan apakah mereka juga mendapat email serupa",
+      "E": "Membalas email untuk mengonfirmasi keabsahannya sebelum mengirim data"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Keamanan Siber dan Phishing",
+      "skor_opsi": {
+        "A": 1,
+        "B": 3,
+        "C": 5,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Atasan Anda meminta Anda menggunakan tools AI generatif untuk menyusun laporan tahunan instansi. Sikap Anda adalah ...",
+    "opsi": {
+      "A": "Menolak karena khawatir AI menghasilkan informasi tidak akurat",
+      "B": "Menggunakan AI sebagai alat bantu, tetapi tetap memverifikasi setiap data dan memastikan konten sesuai fakta sebelum dikirimkan",
+      "C": "Menggunakan AI sepenuhnya tanpa review agar lebih cepat selesai",
+      "D": "Meminta staf junior yang lebih paham teknologi untuk mengerjakannya",
+      "E": "Hanya menggunakan AI untuk bagian yang tidak penting"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Penggunaan AI dalam Pemerintahan",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Data pribadi warga yang tersimpan di server instansi Anda mengalami kebocoran akibat serangan siber. Sebagai penanggung jawab sistem, Anda akan ...",
+    "opsi": {
+      "A": "Menyembunyikan insiden agar reputasi instansi tidak rusak",
+      "B": "Segera melakukan isolasi sistem, melaporkan kepada pimpinan dan BSSN, serta menginformasikan kepada warga yang terdampak sesuai prosedur",
+      "C": "Menunggu investigasi internal sebelum mengambil tindakan apapun",
+      "D": "Mereset semua sistem agar insiden terhapus",
+      "E": "Menyerahkan penanganan sepenuhnya kepada vendor IT"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Respons Insiden Keamanan Data",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Instansi Anda akan beralih ke sistem e-government berbasis cloud. Anda ditunjuk sebagai koordinator transisi. Langkah pertama Anda adalah ...",
+    "opsi": {
+      "A": "Langsung mengimplementasikan sistem tanpa pelatihan",
+      "B": "Melakukan asesmen kebutuhan, menyusun rencana migrasi bertahap, mengadakan pelatihan pegawai, dan menyiapkan helpdesk transisi",
+      "C": "Menunggu arahan lebih lanjut dari atasan pusat",
+      "D": "Meminta anggaran tambahan sebelum memulai apapun",
+      "E": "Menugaskan tim junior untuk mengurus sepenuhnya"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Transformasi Digital Pemerintahan",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menemukan konten di media sosial yang menyebarkan narasi bahwa pemerintah Indonesia dikuasai oleh kelompok asing dan mengajak masyarakat menggulingkan pemerintahan. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Menyebarkan ulang untuk mendapatkan lebih banyak perspektif",
+      "B": "Mengabaikan karena tidak relevan dengan pekerjaan Anda",
+      "C": "Melaporkan konten tersebut ke Kominfo atau BNPT dan menyebarkan narasi kontra yang berbasis fakta",
+      "D": "Mendiskusikan dengan teman-teman saja",
+      "E": "Menunggu pemerintah yang bertindak"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Deteksi dan Pelaporan Konten Radikal",
+      "skor_opsi": {
+        "A": 1,
+        "B": 2,
+        "C": 5,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Seorang rekan kerja mulai sering absen, menarik diri dari pergaulan, dan terlihat mengakses situs-situs berkonten ekstremisme. Anda akan ...",
+    "opsi": {
+      "A": "Langsung melaporkan ke polisi tanpa konfirmasi",
+      "B": "Mendekat secara personal untuk memahami kondisinya, kemudian melaporkan secara bijak ke unit pengawasan internal atau BNPT jika ada indikasi serius",
+      "C": "Membiarkan karena itu urusan pribadi rekan tersebut",
+      "D": "Membicarakannya kepada seluruh rekan agar semua waspada",
+      "E": "Menunggu sampai rekan tersebut melakukan sesuatu yang nyata"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Pencegahan Radikalisasi di Lingkungan Kerja",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mendapat undangan dari kelompok yang mengklaim sebagai komunitas kajian keagamaan, tetapi dari penelusuran awal terindikasi berhaluan radikal. Sikap Anda adalah ...",
+    "opsi": {
+      "A": "Menghadiri undangan untuk mengetahui isi kajian",
+      "B": "Menolak dengan sopan dan melaporkan informasi ini kepada BNPT atau aparat berwenang",
+      "C": "Menghadiri sekadar basa-basi agar tidak dianggap tidak ramah",
+      "D": "Diam dan menunggu teman yang lebih paham untuk menilai",
+      "E": "Mengajak lebih banyak orang agar dapat memantau bersama"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Kewaspadaan terhadap Kelompok Radikal",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Seorang mantan narapidana terorisme yang telah menjalani program deradikalisasi melamar bekerja di unit Anda. Sikap Anda dalam proses seleksi adalah ...",
+    "opsi": {
+      "A": "Menolak otomatis tanpa mempertimbangkan prosesnya",
+      "B": "Menilai berdasarkan kompetensi dan hasil program deradikalisasi yang terdokumentasi, dengan mempertimbangkan keamanan dan peraturan yang berlaku",
+      "C": "Menerima langsung sebagai bentuk rehabilitasi sosial",
+      "D": "Meminta pendapat seluruh staf sebelum memutuskan",
+      "E": "Menyerahkan keputusan sepenuhnya kepada atasan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Reintegrasi Mantan Napi Terorisme",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Kelompok masyarakat di sekitar kantor Anda mengadakan aksi demo yang menuntut penghapusan Pancasila dan diganti ideologi lain. Sebagai ASN, sikap Anda adalah ...",
+    "opsi": {
+      "A": "Bergabung dalam demonstrasi untuk menyampaikan aspirasi",
+      "B": "Melapor kepada pimpinan dan aparat keamanan, serta aktif mendukung sosialisasi nilai Pancasila di masyarakat",
+      "C": "Mengabaikan karena itu hak warga untuk berdemo",
+      "D": "Memantau dari jauh tanpa tindakan apapun",
+      "E": "Memfoto dan menyebarkan di media sosial untuk diatasi publik"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Pertahanan Ideologi Pancasila",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda diminta berpartisipasi dalam program counter-narrative terhadap radikalisme online di media sosial instansi pemerintah. Kontribusi Anda adalah ...",
+    "opsi": {
+      "A": "Menolak karena merasa itu bukan bidang keahlian Anda",
+      "B": "Berpartisipasi aktif dengan membuat konten informatif berbasis data yang memperkuat nilai kebangsaan dan mendebunk narasi radikal",
+      "C": "Ikut berpartisipasi minimal agar terlihat mendukung program",
+      "D": "Menunggu arahan konten dari atasan sebelum posting apapun",
+      "E": "Menyerahkan kepada tim media sosial instansi saja"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Counter-Narrative Radikalisme Digital",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 4,
+        "E": 2
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Program Makan Bergizi Gratis (SPPI) di wilayah kerja Anda menghadapi keluhan dari orang tua siswa terkait kualitas menu yang tidak memenuhi standar gizi. Anda sebagai koordinator lapangan akan ...",
+    "opsi": {
+      "A": "Mengabaikan keluhan karena program sudah berjalan",
+      "B": "Mendokumentasikan keluhan, berkoordinasi dengan ahli gizi dan penyedia katering untuk perbaikan menu, serta melaporkan ke pusat",
+      "C": "Menyalahkan penyedia katering di depan orang tua",
+      "D": "Meminta orang tua menyiapkan makan siang sendiri",
+      "E": "Mengurangi standar gizi agar anggaran lebih efisien"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Program Makan Bergizi Gratis (SPPI)",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menemukan bahwa anggota tim Anda menggunakan perangkat AI generatif tanpa verifikasi untuk menghasilkan data statistik dalam laporan resmi pemerintah. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Membiarkan selama laporan terlihat profesional",
+      "B": "Menghentikan praktik tersebut, memberikan panduan penggunaan AI yang bertanggung jawab, dan memastikan semua data diverifikasi dari sumber primer",
+      "C": "Melaporkan anggota tersebut kepada atasan tanpa diskusi terlebih dahulu",
+      "D": "Menyarankan agar AI hanya digunakan untuk teks, bukan data",
+      "E": "Menambahkan disclaimer bahwa data dihasilkan AI di laporan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Etika Penggunaan AI dalam Pelaporan Pemerintah",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Pertumbuhan ekonomi Indonesia sedikit melambat dan Presiden menekankan perlunya efisiensi belanja negara dalam pidatonya. Sebagai ASN, respons terbaik Anda terhadap arahan tersebut adalah ...",
+    "opsi": {
+      "A": "Mengurangi kualitas pelayanan agar anggaran hemat",
+      "B": "Melakukan review anggaran unit, mengidentifikasi pemborosan, dan mengusulkan efisiensi tanpa mengorbankan kualitas layanan publik",
+      "C": "Membiarkan karena efisiensi urusan pimpinan",
+      "D": "Memotong anggaran pelatihan staf sebagai langkah efisiensi termudah",
+      "E": "Menunggu petunjuk teknis resmi sebelum mengambil langkah apapun"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Efisiensi Anggaran dan Pertumbuhan Ekonomi",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Revitalisasi Koperasi Unit Desa (KUD) di wilayah Anda mengalami hambatan karena kurangnya kepercayaan masyarakat akibat kasus penggelapan oleh pengurus lama. Langkah Anda sebagai fasilitator pemerintah adalah ...",
+    "opsi": {
+      "A": "Membubarkan KUD dan menggantinya dengan BUMDes",
+      "B": "Mendorong pergantian pengurus melalui rapat anggota yang transparan, audit keuangan independen, dan program pemulihan kepercayaan berbasis komunikasi terbuka",
+      "C": "Memberikan bantuan dana tanpa menyelesaikan masalah tata kelola",
+      "D": "Membiarkan masyarakat menyelesaikan masalah sendiri",
+      "E": "Melaporkan pengurus lama ke polisi dan menunggu proses hukum selesai sebelum berbuat apapun"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Revitalisasi Koperasi Unit Desa (KUD)",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Dalam program hilirisasi industri komoditas, perusahaan daerah di wilayah Anda diminta mengurangi ekspor bahan mentah. Namun pengusaha lokal mengeluh karena kehilangan pasar ekspor cepat. Sikap Anda sebagai pejabat yang bertanggung jawab adalah ...",
+    "opsi": {
+      "A": "Mengizinkan ekspor bahan mentah untuk menjaga hubungan dengan pengusaha lokal",
+      "B": "Menjelaskan manfaat jangka panjang hilirisasi, memfasilitasi akses pengusaha ke program insentif pengolahan, dan menyediakan pendampingan transisi",
+      "C": "Melarang ekspor bahan mentah secara tegas tanpa solusi alternatif",
+      "D": "Meminta pusat untuk mengecualikan daerah Anda dari kebijakan hilirisasi",
+      "E": "Membiarkan pengusaha menentukan pilihannya sendiri"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Jenjang Kerja",
+      "topik": "Implementasi Kebijakan Hilirisasi",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Mitigasi bencana berbasis komunitas desa sedang diimplementasikan di wilayah kerja Anda. Namun kepala desa menolak program karena merasa tidak dilibatkan dalam perencanaan. Anda akan ...",
+    "opsi": {
+      "A": "Memaksakan program sesuai instruksi pusat",
+      "B": "Membawa kembali kepala desa ke meja perencanaan, mendengarkan masukan lokal, dan merevisi program bersama agar lebih kontekstual",
+      "C": "Melewati kepala desa dan langsung bekerja dengan warga",
+      "D": "Melaporkan kepala desa yang tidak kooperatif ke atasan",
+      "E": "Menunda program sampai ada pergantian kepemimpinan desa"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Sosial Budaya",
+      "topik": "Mitigasi Bencana Berbasis Komunitas Desa",
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda menjabat sebagai petugas imigrasi di perbatasan. Seorang warga negara asing berusaha masuk menggunakan dokumen perjalanan yang terindikasi palsu namun mengaku sebagai pengungsi dari zona konflik. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Mengizinkan masuk atas dasar kemanusiaan tanpa verifikasi lebih lanjut",
+      "B": "Menolak masuk dan menahan orang tersebut sambil berkoordinasi dengan UNHCR dan atasan untuk verifikasi status dan dokumen sesuai prosedur",
+      "C": "Langsung mendeportasi tanpa proses apapun",
+      "D": "Meminta uang jaminan sebelum memproses lebih lanjut",
+      "E": "Menyerahkan ke polisi dan tidak menangani lebih lanjut"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Pelayanan Publik",
+      "topik": "Penanganan Pengungsi dan Perbatasan",
+      "skor_opsi": {
+        "A": 3,
+        "B": 5,
+        "C": 2,
+        "D": 1,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anda mengetahui bahwa program dana desa di wilayah Anda digunakan untuk proyek yang tidak sesuai perencanaan dan tidak tepat sasaran. Tindakan Anda adalah ...",
+    "opsi": {
+      "A": "Diam karena takut bermasalah dengan kepala desa",
+      "B": "Mengumpulkan bukti dan melaporkan kepada inspektorat daerah atau KPK melalui mekanisme pengaduan resmi",
+      "C": "Memperingatkan kepala desa secara pribadi agar segera diperbaiki",
+      "D": "Menunggu audit BPK yang rutin",
+      "E": "Membicarakan di forum warga tanpa laporan resmi"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Anti Radikalisme",
+      "topik": "Pemberantasan Korupsi Dana Desa",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Instansi Anda mengimplementasikan sistem SPBE (Sistem Pemerintahan Berbasis Elektronik). Namun banyak pegawai senior mengeluh sistem terlalu rumit. Sebagai agen perubahan, Anda akan ...",
+    "opsi": {
+      "A": "Meminta instansi kembali ke sistem manual karena lebih familiar",
+      "B": "Mendesain program pelatihan peer-to-peer, membuat panduan sederhana, dan menjadi mentor bagi pegawai yang kesulitan beradaptasi",
+      "C": "Menyerahkan urusan SPBE kepada tim IT saja",
+      "D": "Membiarkan pegawai senior belajar sendiri karena sistem sudah ada manualnya",
+      "E": "Meminta pengecualian bagi pegawai senior yang mendekati pensiun"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "TIK",
+      "topik": "Implementasi SPBE dan Manajemen Perubahan",
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      }
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Dalam rangka memperingati Hari Kebangkitan Nasional, Anda diminta memimpin kegiatan yang melibatkan generasi muda dari berbagai latar belakang. Kegiatan yang paling tepat untuk memperkuat nasionalisme sekaligus relevan dengan isu kekinian adalah ...",
+    "opsi": {
+      "A": "Lomba hafalan Pancasila dan UUD 1945",
+      "B": "Festival inovasi anak bangsa yang menggabungkan teknologi digital, seni budaya, dan semangat kebangsaan dengan tema Indonesia Emas 2045",
+      "C": "Upacara bendera dan pidato kenegaraan",
+      "D": "Pertandingan olahraga antar daerah",
+      "E": "Pemutaran film perjuangan kemerdekaan"
+    },
+    "info": {
+      "kategori": "TKP",
+      "sub_kategori": "Profesionalisme",
+      "topik": "Kepemimpinan Event Kebangsaan",
+      "skor_opsi": {
+        "A": 3,
+        "B": 5,
+        "C": 2,
+        "D": 4,
+        "E": 1
+      }
+    }
+  }
+]

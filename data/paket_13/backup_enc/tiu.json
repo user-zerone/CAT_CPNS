@@ -1,0 +1,597 @@
+[
+  {
+    "gambar": "",
+    "soal": "HILIRISASI : KOMODITAS = ... : ...",
+    "opsi": {
+      "A": "Digitalisasi : Manual",
+      "B": "Transformasi : Birokrasi",
+      "C": "Pengolahan : Bahan Baku",
+      "D": "Ekspor : Impor",
+      "E": "Inovasi : Penelitian"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Analogi",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "INFLASI : HARGA = DEPRESIASI : ...",
+    "opsi": {
+      "A": "Bunga",
+      "B": "Nilai Tukar",
+      "C": "Investasi",
+      "D": "Ekspor",
+      "E": "Devisa"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Analogi",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "KOPERASI : ANGGOTA = NEGARA : ...",
+    "opsi": {
+      "A": "Presiden",
+      "B": "Wilayah",
+      "C": "Warga Negara",
+      "D": "Pemerintah",
+      "E": "Undang-Undang"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Analogi",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "MITIGASI : BENCANA = VAKSINASI : ...",
+    "opsi": {
+      "A": "Rumah Sakit",
+      "B": "Dokter",
+      "C": "Penyakit",
+      "D": "Epidemi",
+      "E": "Obat"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Analogi",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Semua proyek IKN menggunakan konsep green building. Sebagian hunian di IKN adalah proyek IKN. Kesimpulan yang tepat adalah ...",
+    "opsi": {
+      "A": "Semua hunian di IKN menggunakan konsep green building",
+      "B": "Sebagian hunian di IKN menggunakan konsep green building",
+      "C": "Tidak ada hunian di IKN yang menggunakan konsep green building",
+      "D": "Semua green building berada di IKN",
+      "E": "Sebagian proyek IKN bukan hunian"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Silogisme",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Semua ASN wajib melaporkan LHKPN. Budi adalah ASN eselon II. Kesimpulan yang tepat adalah ...",
+    "opsi": {
+      "A": "Budi tidak wajib melaporkan LHKPN",
+      "B": "Budi wajib melaporkan LHKPN",
+      "C": "Hanya eselon I yang wajib melaporkan LHKPN",
+      "D": "LHKPN hanya untuk pejabat negara",
+      "E": "Budi mungkin tidak wajib melaporkan LHKPN"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Silogisme",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Tidak ada pekerja migran yang tidak terdaftar BP2MI yang terlindungi hukum. Santi adalah pekerja migran yang terlindungi hukum. Kesimpulan yang tepat adalah ...",
+    "opsi": {
+      "A": "Santi tidak terdaftar di BP2MI",
+      "B": "Santi terdaftar di BP2MI",
+      "C": "Santi mungkin terdaftar di BP2MI",
+      "D": "BP2MI hanya melindungi pekerja wanita",
+      "E": "Semua pekerja migran terlindungi hukum"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Silogisme",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Semua startup digital mendapat insentif pajak. Beberapa UMKM adalah startup digital. Kesimpulan yang tepat adalah ...",
+    "opsi": {
+      "A": "Semua UMKM mendapat insentif pajak",
+      "B": "Tidak ada UMKM yang mendapat insentif pajak",
+      "C": "Beberapa UMKM mendapat insentif pajak",
+      "D": "Semua startup digital adalah UMKM",
+      "E": "Insentif pajak hanya untuk startup digital besar"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Silogisme",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Lima negara ASEAN — Indonesia, Malaysia, Thailand, Vietnam, dan Filipina — akan menjadi tuan rumah ajang olahraga regional secara bergiliran selama 5 tahun ke depan. Ketentuan: (1) Indonesia menjadi tuan rumah sebelum Malaysia. (2) Thailand tidak menjadi tuan rumah pada tahun pertama atau kelima. (3) Vietnam menjadi tuan rumah tepat setelah Thailand. (4) Filipina menjadi tuan rumah pada tahun terakhir. Urutan yang paling mungkin adalah ...",
+    "opsi": {
+      "A": "Indonesia, Malaysia, Thailand, Vietnam, Filipina",
+      "B": "Malaysia, Indonesia, Thailand, Vietnam, Filipina",
+      "C": "Indonesia, Thailand, Vietnam, Malaysia, Filipina",
+      "D": "Indonesia, Malaysia, Vietnam, Thailand, Filipina",
+      "E": "Thailand, Vietnam, Indonesia, Malaysia, Filipina"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Pelajaran Analitis",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Enam kementerian — A, B, C, D, E, F — akan mempresentasikan program prioritas dalam 6 sesi rapat kabinet. Ketentuan: (1) Kementerian A presentasi sebelum B dan C. (2) D presentasi tepat setelah C. (3) E presentasi di sesi terakhir. (4) B tidak presentasi di sesi kedua. Jika C presentasi di sesi keempat, maka D presentasi di sesi ...",
+    "opsi": {
+      "A": "Kedua",
+      "B": "Ketiga",
+      "C": "Kelima",
+      "D": "Keenam",
+      "E": "Pertama"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Pelajaran Analitis",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Ada 5 pejabat daerah yang akan ditempatkan di 5 kota IKN berbeda: P, Q, R, S, T. Ketentuan: (1) P tidak ditempatkan di kota pertama atau terakhir. (2) Q ditempatkan tepat di antara R dan S. (3) T ditempatkan di kota terakhir. (4) R ditempatkan sebelum P. Jika Q berada di posisi ketiga, maka urutan yang benar adalah ...",
+    "opsi": {
+      "A": "R, S, Q, P, T",
+      "B": "S, R, Q, P, T",
+      "C": "R, P, Q, S, T",
+      "D": "S, P, Q, R, T",
+      "E": "R, Q, S, P, T"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Pelajaran Analitis",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Tiga program prioritas pemerintah — Makan Bergizi, IKN, dan Hilirisasi — dilaksanakan oleh 3 kementerian berbeda (Kemenko I, II, III). Ketentuan: (1) Kemenko I tidak menangani IKN. (2) Kemenko II menangani Hilirisasi. (3) Kemenko III tidak menangani Makan Bergizi. Program yang ditangani Kemenko I adalah ...",
+    "opsi": {
+      "A": "IKN",
+      "B": "Hilirisasi",
+      "C": "Makan Bergizi",
+      "D": "IKN dan Makan Bergizi",
+      "E": "Tidak dapat ditentukan"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Pelajaran Analitis",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Pada Forum ASEAN, 4 kepala negara — W, X, Y, Z — berbicara secara berurutan. Ketentuan: (1) Y berbicara setelah W. (2) X berbicara sebelum Y tetapi setelah Z. (3) W berbicara pertama. Urutan berbicara yang benar adalah ...",
+    "opsi": {
+      "A": "W, Z, X, Y",
+      "B": "W, X, Z, Y",
+      "C": "Z, W, X, Y",
+      "D": "W, Y, Z, X",
+      "E": "Z, X, W, Y"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Verbal",
+      "topik": "Pelajaran Analitis",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Pertumbuhan ekonomi Indonesia Q1 2026 sebesar 4,87%. Jika target pertumbuhan setahun penuh adalah 5,2% dan pertumbuhan Q2–Q4 diasumsikan merata, berapa pertumbuhan yang harus dicapai setiap kuartal sisanya (dibulatkan dua desimal)?",
+    "opsi": {
+      "A": "5,37%",
+      "B": "5,38%",
+      "C": "5,39%",
+      "D": "5,40%",
+      "E": "5,41%"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Hitung Cepat",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Nilai tukar rupiah melemah dari Rp15.800 per dolar menjadi Rp16.450 per dolar. Persentase pelemahan rupiah tersebut adalah ...",
+    "opsi": {
+      "A": "3,94%",
+      "B": "4,00%",
+      "C": "4,11%",
+      "D": "4,25%",
+      "E": "4,50%"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Hitung Cepat",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anggaran APBN 2026 sebesar Rp3.600 triliun. Jika 20% dialokasikan untuk infrastruktur dan 15% untuk pendidikan, berapakah sisa anggaran untuk sektor lainnya?",
+    "opsi": {
+      "A": "Rp2.340 triliun",
+      "B": "Rp2.160 triliun",
+      "C": "Rp2.520 triliun",
+      "D": "Rp1.980 triliun",
+      "E": "Rp2.400 triliun"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Hitung Cepat",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Produksi padi nasional meningkat 8% menjadi 54 juta ton. Berapa produksi padi sebelum kenaikan?",
+    "opsi": {
+      "A": "49,5 juta ton",
+      "B": "50 juta ton",
+      "C": "50,5 juta ton",
+      "D": "49 juta ton",
+      "E": "51 juta ton"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Hitung Cepat",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Jika 1 USD = Rp16.200, harga impor mesin senilai USD 24.500 dalam rupiah adalah ...",
+    "opsi": {
+      "A": "Rp 389.000.000",
+      "B": "Rp 395.900.000",
+      "C": "Rp 397.900.000",
+      "D": "Rp 396.900.000",
+      "E": "Rp 398.000.000"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Hitung Cepat",
+      "jawaban_benar": "D"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Kuantitas X = 3² + 4² ; Kuantitas Y = 5². Manakah pernyataan yang benar?",
+    "opsi": {
+      "A": "X > Y",
+      "B": "X < Y",
+      "C": "X = Y",
+      "D": "Hubungan X dan Y tidak dapat ditentukan",
+      "E": "X ≠ Y dan X > Y"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Perbandingan Kuantitatif",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "X = 15% dari 480 ; Y = 25% dari 288. Manakah pernyataan yang benar?",
+    "opsi": {
+      "A": "X > Y",
+      "B": "X < Y",
+      "C": "X = Y",
+      "D": "Tidak dapat ditentukan",
+      "E": "X ≥ Y"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Perbandingan Kuantitatif",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Ekspor nikel Indonesia senilai X miliar dolar, ekspor batu bara senilai Y miliar dolar. Jika X = 3Y - 12 dan X + Y = 48, maka nilai X adalah ...",
+    "opsi": {
+      "A": "27",
+      "B": "33",
+      "C": "36",
+      "D": "24",
+      "E": "30"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Perbandingan Kuantitatif",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Anggaran dana desa P adalah 3/5 dari anggaran desa Q. Jika anggaran desa Q adalah Rp800 juta, selisih anggaran keduanya adalah ...",
+    "opsi": {
+      "A": "Rp280 juta",
+      "B": "Rp300 juta",
+      "C": "Rp320 juta",
+      "D": "Rp340 juta",
+      "E": "Rp360 juta"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Perbandingan Kuantitatif",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Jika rasio ASN pusat : ASN daerah = 2 : 5 dan total ASN adalah 4,9 juta, berapa jumlah ASN pusat?",
+    "opsi": {
+      "A": "1,2 juta",
+      "B": "1,3 juta",
+      "C": "1,4 juta",
+      "D": "1,5 juta",
+      "E": "1,6 juta"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Perbandingan Kuantitatif",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Sebuah proyek infrastruktur IKN dikerjakan oleh kontraktor A dan B. Kontraktor A dapat menyelesaikan proyek dalam 12 hari, kontraktor B dalam 18 hari. Jika keduanya bekerja bersama selama 4 hari, kemudian B berhenti, berapa hari lagi yang dibutuhkan A untuk menyelesaikan sisa pekerjaan?",
+    "opsi": {
+      "A": "3 hari",
+      "B": "4 hari",
+      "C": "4,67 hari",
+      "D": "5 hari",
+      "E": "6 hari"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Soal Cerita",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Harga beras naik 12% akibat pelemahan rupiah. Seorang pedagang membeli 500 kg beras seharga Rp9.000/kg sebelum kenaikan. Berapa total kerugian lebih yang harus dikeluarkan pedagang jika membeli pada harga baru?",
+    "opsi": {
+      "A": "Rp480.000",
+      "B": "Rp504.000",
+      "C": "Rp520.000",
+      "D": "Rp540.000",
+      "E": "Rp560.000"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Soal Cerita",
+      "jawaban_benar": "D"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Sebuah koperasi desa memiliki simpanan pokok rata-rata Rp500.000 per anggota. Jika jumlah anggota bertambah 20% menjadi 360 orang, dan simpanan rata-rata naik menjadi Rp600.000, berapakah total simpanan sekarang?",
+    "opsi": {
+      "A": "Rp198.000.000",
+      "B": "Rp210.000.000",
+      "C": "Rp216.000.000",
+      "D": "Rp220.000.000",
+      "E": "Rp225.000.000"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Soal Cerita",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "Program SPPI (Makan Bergizi Gratis) menyasar 82,9 juta siswa. Jika anggaran per siswa per hari adalah Rp15.000 dan program berjalan 200 hari setahun, berapa total anggaran program per tahun (dalam triliun rupiah)?",
+    "opsi": {
+      "A": "Rp248,7 triliun",
+      "B": "Rp249,7 triliun",
+      "C": "Rp248,9 triliun",
+      "D": "Rp248,5 triliun",
+      "E": "Rp249,0 triliun"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Numerik",
+      "topik": "Soal Cerita",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "3, 7, 15, 31, 63, ...",
+    "opsi": {
+      "A": "111",
+      "B": "117",
+      "C": "127",
+      "D": "125",
+      "E": "131"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Deret Angka",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "2, 5, 11, 23, 47, ...",
+    "opsi": {
+      "A": "89",
+      "B": "93",
+      "C": "95",
+      "D": "94",
+      "E": "97"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Deret Angka",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "100, 98, 94, 86, 70, ...",
+    "opsi": {
+      "A": "38",
+      "B": "42",
+      "C": "44",
+      "D": "40",
+      "E": "36"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Deret Angka",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "4, 9, 7, 12, 10, 15, 13, ...",
+    "opsi": {
+      "A": "16",
+      "B": "17",
+      "C": "18",
+      "D": "19",
+      "E": "20"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Deret Angka",
+      "jawaban_benar": "C"
+    }
+  },
+  {
+    "gambar": "",
+    "soal": "1, 4, 9, 16, 25, 36, ...",
+    "opsi": {
+      "A": "42",
+      "B": "45",
+      "C": "48",
+      "D": "49",
+      "E": "50"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Deret Angka",
+      "jawaban_benar": "D"
+    }
+  },
+  {
+    "gambar": "data/paket_13/img/analogi_b.png",
+    "soal": "Jawaban yang benar adalah ...",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Analogi Gambar",
+      "jawaban_benar": "B"
+    }
+  },
+  {
+    "gambar": "data/paket_13/img/ketidaksamaan_a.png",
+    "soal": "Jawaban yang benar adalah ...",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Ketidaksamaan Gambar",
+      "jawaban_benar": "A"
+    }
+  },
+  {
+    "gambar": "data/paket_13/img/serial_b.png",
+    "soal": "Jawaban yang benar adalah ...",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "info": {
+      "kategori": "TIU",
+      "sub_kategori": "Kemampuan Figural",
+      "topik": "Serial Gambar",
+      "jawaban_benar": "B"
+    }
+  }
+]
